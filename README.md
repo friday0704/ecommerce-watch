@@ -2,13 +2,15 @@
 Smart watch Shopping website<br>
 
 # Functionality
-● Login/ Sign up page
-● Create a product detail page for smart watches.
-● Add/remove the product to the cart and checkout.
-● Create a product listing page.
-● Add search and filters.
-● Add ratings and reviews.
-● Add recommendations.
+<ul>
+<li> Login/ Sign up page.</li>
+<li> Create a product detail page for smart watches.</li>
+<li> Add/remove the product to the cart and checkout.</li>
+<li> Create a product listing page.</li>
+<li> Add search and filters.</li>
+<li> Add ratings and reviews.</li>
+<li> Add recommendations.</li>
+</ul>
 
 
 # Tech used
